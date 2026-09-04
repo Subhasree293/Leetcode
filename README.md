@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhasree293/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Subhasree293/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2942-find-words-containing-character](https://github.com/Subhasree293/Leetcode/tree/master/2942-find-words-containing-character) |
 ## String
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhasree293/Leetcode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Subhasree293/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
