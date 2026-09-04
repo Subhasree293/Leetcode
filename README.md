@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Subhasree293/Leetcode/tree/master/0001-two-sum) |
 | [2942-find-words-containing-character](https://github.com/Subhasree293/Leetcode/tree/master/2942-find-words-containing-character) |
 ## String
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Subhasree293/Leetcode/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Subhasree293/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
