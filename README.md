@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Subhasree293/Leetcode/tree/master/0013-roman-to-integer) |
 | [2942-find-words-containing-character](https://github.com/Subhasree293/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Stack
 |  |
@@ -33,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Subhasree293/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Subhasree293/Leetcode/tree/master/0013-roman-to-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhasree293/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Subhasree293/Leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
