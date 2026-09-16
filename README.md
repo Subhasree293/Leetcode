@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Subhasree293/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Subhasree293/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhasree293/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Subhasree293/Leetcode/tree/master/0035-search-insert-position) |
 | [2942-find-words-containing-character](https://github.com/Subhasree293/Leetcode/tree/master/2942-find-words-containing-character) |
 ## String
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Subhasree293/Leetcode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Subhasree293/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
